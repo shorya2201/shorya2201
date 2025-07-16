@@ -12,7 +12,7 @@ You can replace the banner, social links, and other placeholders with your own i
 <!-- Typing SVG -->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+%5BYour+Name%5D!+%F0%9F%91%8B;I'm+a+Full-Stack+Developer;A+lifelong+learner...;...and+a+tech+enthusiast!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Shorya+Rastogi!+%F0%9F%91%8B;I'm+a+Full-Stack+Developer;A+lifelong+learner...;...and+a+tech+enthusiast!" alt="Typing SVG" /></a>
 </p>
 
 <!-- About Me -->
