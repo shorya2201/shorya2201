@@ -6,13 +6,13 @@ You can replace the banner, social links, and other placeholders with your own i
 <!-- Banner -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/dev-souvik/dev-souvik/master/static/banner.png" alt="A cool banner image for your profile" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="A cool animated banner for your profile" />
 </p>
 
 <!-- Typing SVG -->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Shorya+Rastogi!+%F0%9F%91%8B;I'm+a+Full-Stack+Developer;A+lifelong+learner...;...and+a+tech+enthusiast!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi%20there%2C%20I'm%20Shorya%20Rastogi!%20%F0%9F%91%8B;I'm%20a%20Full-Stack%20Developer;A%20lifelong%20learner...;...and%20a%20tech%20enthusiast!" alt="Typing SVG" /></a>
 </p>
 
 <!-- About Me -->
