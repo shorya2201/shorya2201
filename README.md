@@ -12,9 +12,14 @@ Feel free to customize it further!
 
 <!-- Introduction & Typing SVG -->
 
+<h1 align="center">
+Hi there, I'm Shorya Rastogi
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!+I'm+Shorya+Rastogi+%F0%9F%91%8B;Java+%26+Web+Development+Enthusiast;Building+the+future%2C+one+line+of+code+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=F7B801&background=00000000&center=true&vCenter=true&width=435&lines=Full-Stack+Java+Developer;Always+Learning+%26+Growing;Crafting+Digital+Experiences" alt="Typing SVG" />
 </a>
 </div>
 
@@ -22,7 +27,7 @@ Feel free to customize it further!
 
 <div align="center">
 <p>
-A passionate Computer Science Engineer from LNCT University, specializing in building robust and scalable applications. I thrive on transforming complex challenges into simple, beautiful, and intuitive digital experiences. 🚀
+Passionate CSE graduate from LNCT University. I build robust, scalable applications and turn complex problems into intuitive digital experiences. 🚀
 </p>
 </div>
 
